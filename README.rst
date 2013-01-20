@@ -15,9 +15,10 @@ Assuntos para Aprender
  - SQLiteJava_
  - AnyMemo_
  - Mnemosyne_
-
+ - Databases_
 .. _SQLite: http://www.sqlite.org/docs.html
 .. _SQLitePython: http://zetcode.com/db/sqlitepythontutorial/
 .. _SQLiteJava: http://www.cin.ufpe.br/~cinlug/wiki/index.php/Usando_SQLite_com_Java_no_Eclipse
 .. _AnyMemo: http://anymemo.org/
 .. _Mnemosyne: http://mnemosyne-proj.org/
+.. _Databases: http://class2go.stanford.edu/db/Winter2013
